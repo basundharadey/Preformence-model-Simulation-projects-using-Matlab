@@ -1,2 +1,2 @@
 # Preformence-model-MS
-Course : Performance Models of Computers and Networks (CDA 6530)
+This repository contains 3 assingments of this course.
